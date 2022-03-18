@@ -1,6 +1,6 @@
 <?php
 
-	define('ROOT_URL', 'https://immense-chamber-23349.herokuapp.com/');
+	define('ROOT_URL', '');
 	define('DB_HOST', 'sql6.freesqldatabase.com');
 	define('DB_USER', 'sql6479706');
 	define('DB_PASS', '8a5dIBG8ks');
