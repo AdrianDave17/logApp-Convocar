@@ -1,7 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset=UTF-8>
 <?php
 	require('config/config.php');
 	require('config/db.php');
@@ -65,9 +61,3 @@
   </form>
 </div>
 <?php include('inc/footer.php'); ?>
-</head>
-  <body>
-  </body>
-</html>
-
-
