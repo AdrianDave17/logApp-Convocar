@@ -32,7 +32,7 @@
 <br/>
   <h2>Registration</h2>
 
-  <form method="POST" action="<?php $_SERVER['PHP_SELF']; ?>" class="was-validated">
+  <form method="POST" action="<?php $_SERVER['PHP_SELF']; ?>" class="was-validated"> 
     <div class="form-group">
       <label for="uname">Last name:</label>
       <input type="text" class="form-control" id="lname" placeholder="Enter last name" name="lname" required>
