@@ -31,8 +31,8 @@
                 <tbody>
                 <?php foreach($persons as $person) : ?>
                     <tr>
-                    <th scope="row"><?php echo $person['p_id'];?></th>
-                    <td><?php echo $person['firstname'];?></td>
+                    <th scope="row"><?php echo $person['pid'];?></th>
+					<td><?php echo $person['firstname'];?></td>
                     <td><?php echo $person['lastname'];?></td>
                     <td><?php echo $person['address'];?></td>
                     <td><?php echo $person['logdt'];?></td>
