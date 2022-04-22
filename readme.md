@@ -1,12 +1,12 @@
 # :clipboard::heavy_check_mark:**05_Practice_Sets**    
 
 ## :memo: ***Description***
-#
+
 This repository is about practice sets 05. It is a website where the user can enter his name and address and the admin can login to see the list of people who log.
 ***
 
 ## :pushpin: ***Visuals*** :camera:
-#
+
 ### :paperclip: **Registration**
 ![registration](img/Screenshot_78.png)
 
@@ -16,9 +16,9 @@ This repository is about practice sets 05. It is a website where the user can en
 ### :paperclip: **List of people who log to the website**
 ![list](img/Screenshot_80.png)
 
-#
+
 ## :wrench: ***Installation*** :wrench:
-#
+
 
 ### :arrow_down: **Download**
 1. *Download and install the application XAMPP or WAMP to have an access to the localhost phpmyadmin.*
@@ -57,7 +57,6 @@ This repository is about practice sets 05. It is a website where the user can en
 ***
 
 ## :round_pushpin: ***Authors*** :boy:
-#
 ## ***Adrian Dave D. Convocar*** :beginner:
 ### ***BSIT 3B1*** :star2::star2::star2:
 ![me](img/1650634417598.jpg)
